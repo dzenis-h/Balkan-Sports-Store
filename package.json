@@ -37,6 +37,6 @@
     "lite": "lite-server",
     "json": "json-server data.js -p 3500 -m authMiddleware.js",
     "typings": "typings",
-    "postinstall": "npm install typings"
+    "postinstall": "ng build --aot --target=production"
   }
 }
