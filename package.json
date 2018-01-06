@@ -1,5 +1,6 @@
 {
   "dependencies": {
+  	"@angular/cli": "1.0.3",
     "@angular/common": "2.2.0",
     "@angular/compiler": "2.2.0",
     "@angular/core": "2.2.0",
