@@ -38,6 +38,6 @@
     "lite": "lite-server",
     "json": "json-server data.js -p 3500 -m authMiddleware.js",
     "typings": "typings",
-    "postinstall": "typings install"
+    "postinstall": "npm install typings"
   }
 }
