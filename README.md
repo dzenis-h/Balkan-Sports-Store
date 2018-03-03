@@ -1,4 +1,5 @@
-# SportsStore2
+> ### Balkan Sports Store
 
-> A simple Angular 5 app build using the usual suspects: TypeScript, Bootstrap, HTML, CSS and Nodejs.
-> It's deployed on Heroku. The link is -->  https://ng-sports.herokuapp.com/store
+> A simple Angular 5 app build using the usual suspects: TypeScript, Bootstrap, and Express.
+> It's basically an eCommerce boilerplate that you can download and improve to your needs.
+> version 1.0 is deployed on Heroku. The link is -->  https://balkan-sports.herokuapp.com/store
