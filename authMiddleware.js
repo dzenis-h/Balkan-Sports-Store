@@ -1,14 +1,14 @@
-const jwt = require("jsonwebtoken");
+import { sign, verify } from "jsonwebtoken";
 
 const APP_SECRET = "myappsecret";
 const USERNAME = "admin";
 const PASSWORD = "secret";
 
-module.exports = function (req, res, next) {
+export default function (req, res, next) {
     if (req.url == "/login" && req.method == "POST") {
         if (req.body != null && req.body.name == USERNAME
                 && req.body.password == PASSWORD) {
-            let token = jwt.sign({ data: USERNAME, expiresIn: "1h" }, APP_SECRET);
+            let token = sign({ data: USERNAME, expiresIn: "1h" }, APP_SECRET);
             res.json({ success: true, token: token });
         } else {
             res.json({ success: false });
@@ -21,7 +21,7 @@ module.exports = function (req, res, next) {
          if (token != null && token.startsWith("Bearer<")) {
             token = token.substring(7, token.length - 1);
             try {
-                jwt.verify(token, APP_SECRET);
+                verify(token, APP_SECRET);
                 next();
                 return;
             } catch (err) {}

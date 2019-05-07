@@ -4,9 +4,11 @@
 
 # compiled output
 
+
+/dist
 /tmp
 /out-tsc
-/dist
+
 
 
 # dependencies
@@ -14,8 +16,6 @@
 
 /node_modules/
 /ng4-master/
-Task IV/
-/Po lekciji/
 
 # IDEs and editors
 
@@ -70,3 +70,8 @@ testem.log
 
 .DS_Store
 Thumbs.db
+
+
+#Some other stuff
+
+_config.yml

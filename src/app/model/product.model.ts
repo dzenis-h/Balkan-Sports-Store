@@ -7,4 +7,3 @@ export class Product {
             public description?: string,
             public price?: number) { }
     }
-    
