@@ -15,7 +15,7 @@ The app is built with the following technologies:
 | Name | Logo | Link |
 | ---- | ---- | ---- |
 | Angular | <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular logo"> | https://angular.io/ |
-| TypeScript | <img src="https://www.typescriptlang.org/assets/images/icons/apple-touch-icon-180x180.png" width="50" height="50" alt="TypeScript logo"> | https://www.typescriptlang.org/ |
+| TypeScript | <img src="![image](https://github.com/dzenis-h/Balkan-Sports-Store/assets/29360045/4ed92c5f-263a-47eb-a02a-4081a914de75)" width="50" height="50" alt="TypeScript logo"> | https://www.typescriptlang.org/ |
 | HTML5 | <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="50" alt="HTML5 logo"> | https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5 |
 | CSS3 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50" alt="CSS3 logo"> | https://developer.mozilla.org/en-US/docs/Web/CSS |
 | Bootstrap 4 | <img src="https://getbootstrap.com/docs/4.0/assets/img/bootstrap-stack.png" width="50" height="50" alt="Bootstrap 4 logo"> | https://getbootstrap.com/ |
