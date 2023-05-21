@@ -19,7 +19,7 @@ OK, I have named the section "Why Angular and TypeScript?" and inserted the logo
 
 ## Why Angular and TypeScript?
 
-![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg) ➕ ![TypeScript Logo](https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667)
+![Angular Logo]([https://angular.io/assets/images/logos/angular/angular.svg](https://camo.githubusercontent.com/83a8f93602a3cc9dc9e3d83ccf3cd8c492a7ab1e72c76fe7f633d3005a25d588/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e67756c61722f616e67756c61722d69636f6e2e737667)) ➕ ![TypeScript Logo](https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667)
 
 Angular 2+ is a modern web framework that enables you to create dynamic and interactive web applications with ease. TypeScript is a superset of JavaScript that adds types and other features to make your code more robust and maintainable. Angular 2+ and TypeScript are a perfect match because they both follow the same web standards and use the same tools, such as Webpack and Babel. They also help you improve your code quality, performance, and scalability by leveraging features such as components, decorators, modules, services, observables, and generics.
 
