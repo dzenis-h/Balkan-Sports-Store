@@ -19,7 +19,7 @@ OK, I have named the section "Why Angular and TypeScript?" and inserted the logo
 
 ## Why Angular and TypeScript?
 
-![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg =62x) + ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg =50x)
+![Angular Logo]([https://angular.io/assets/images/logos/angular/angular.svg](https://s3.amazonaws.com/media-p.slid.es/uploads/49854/images/6221702/typescript.png) ➕ ![TypeScript Logo](https://s3.amazonaws.com/media-p.slid.es/uploads/49854/images/6221702/typescript.png =50x)
 
 Angular 2+ is a modern web framework that enables you to create dynamic and interactive web applications with ease. TypeScript is a superset of JavaScript that adds types and other features to make your code more robust and maintainable. Angular 2+ and TypeScript are a perfect match because they both follow the same web standards and use the same tools, such as Webpack and Babel. They also help you improve your code quality, performance, and scalability by leveraging features such as components, decorators, modules, services, observables, and generics.
 
