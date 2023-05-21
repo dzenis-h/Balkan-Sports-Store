@@ -1,6 +1,6 @@
 Here is an updated ReadMe.md file for the currently open repo based on the current web page context:
 
-# Balkan Sports Store 😎
+# Balkan Sports Store ⚽ 🎾 🏀
 
 Balkan Sports Store is an eCommerce prototype app made with Angular 🅰️. It allows users to browse through different categories of sports products, add them to the shopping cart, and place orders. Users can also register and log in to view their previous orders and profile details. The app uses a RESTful web service to communicate with a MongoDB database and handle authentication and authorization.
 
