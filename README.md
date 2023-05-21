@@ -1,7 +1,31 @@
-# Balkan-Sports-Store
-This was my first take on Angular 🏀
+Here is an updated ReadMe.md file for the currently open repo based on the current web page context:
 
-I apologize for the inconvenience. Here are the updated logos for RxJS 5 and JSON Web Token (JWT).
+# Balkan Sports Store 😎
+
+Balkan Sports Store is an eCommerce prototype app made with Angular 🅰️. It allows users to browse through different categories of sports products, add them to the shopping cart, and place orders. Users can also register and log in to view their previous orders and profile details. The app uses a RESTful web service to communicate with a MongoDB database and handle authentication and authorization.
+
+## Features 🚀
+
+- Responsive design using Bootstrap 4 🎨
+- Angular Material components for UI elements 🧩
+- Angular Router for navigation and routing 🚦
+- Angular HttpClient for sending HTTP requests 🌐
+- JSON Web Token (JWT) for authentication and authorization 🔐
+- Pagination, sorting, and filtering for product list 📄
+- Form validation and error handling for user input ✅
+- Toastr service for displaying notifications 📢
+
+## Installation 💻
+
+To run this app locally, you need to have Node.js and MongoDB installed on your machine.
+
+1. Clone this repo or download the zip file.
+2. Navigate to the project folder and run `npm install` to install the dependencies.
+3. Run `npm start` to start the Angular development server.
+4. Open another terminal window and navigate to the `server` folder inside the project folder.
+5. Run `npm install` to install the server dependencies.
+6. Run `npm start` to start the Node.js server.
+7. Open your browser and go to `http://localhost:4200` to see the app in action.
 
 | Technology | Logo | Description |
 | --- | --- | --- |
@@ -16,4 +40,28 @@ I apologize for the inconvenience. Here are the updated logos for RxJS 5 and JSO
 | RxJS 5 | ![RxJS 5](https://rxjs.dev/assets/images/logos/Rx_Logo_S.png) | RxJS 5 is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code. |
 | Angular 5 | ![Angular 5](https://www.vectorlogo.zone/logos/angular/angular-icon.svg) | Angular 5 is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. |
 
-I hope this helps! Let me know if you have any other questions or if there's anything else I can help you with.
+## Screenshot 📸
+
+![Balkan Sports Store screenshot](https://www.dzenis.tech/static/media/SportsStore_25.c395a167.webp)
+
+## License 📄
+
+This project is licensed under the MIT License - MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
